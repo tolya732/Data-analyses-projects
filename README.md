@@ -5,7 +5,7 @@
 ### Проект 1 [Terrorism Hotspots](https://github.com/tolya732/Data-analyses-projects/blob/main/1%20Terrorism%20Hotspots.ipynb)
 Если не открывается на GitHub, то смотреть здесь: https://nbviewer.org/github/tolya732/Data-analyses-projects/blob/main/1%20Terrorism%20Hotspots.ipynb
 
-Использовал библиотеки pandas, matplotlib и seaborn для обработки данных и создания визуализаций, для нахождения выбросов использовал Isolation Forest алгоритм библиотеки sklearn, для построения карт мира использовал plotly.
+В проекте использовал библиотеки pandas, matplotlib и seaborn для обработки данных и создания визуализаций, для нахождения выбросов использовал Isolation Forest алгоритм библиотеки sklearn, для построения карт мира использовал plotly.
 
 ЗАДАНИЕ
 
@@ -26,7 +26,7 @@
 ### Проект 2 [Credit_Screening](https://github.com/tolya732/Data-analyses-projects/blob/main/2%20Credit_Screening.ipynb)
 Если не открывается на GitHub, то смотреть здесь: https://nbviewer.org/github/tolya732/Data-analyses-projects/blob/main/2%20Credit_Screening.ipynb
 
-Использовал библиотеку pyspark для создания модели логистической регрессии.
+В проекте использовал библиотеку pyspark для создания модели логистической регрессии.
 
 ЗАДАНИЕ
 
