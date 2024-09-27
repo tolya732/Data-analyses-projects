@@ -5,6 +5,8 @@
 ### Проект 1 [Terrorism Hotspots](https://github.com/tolya732/Data-analyses-projects/blob/main/1%20Terrorism%20Hotspots.ipynb)
 Если не открывается на GitHub, то смотреть здесь: https://nbviewer.org/github/tolya732/Data-analyses-projects/blob/main/1%20Terrorism%20Hotspots.ipynb
 
+Использовал библиотеки pandas, matplotlib и seaborn для обработки данных и создания визуализаций, для нахождения выбросов использовал Isolation Forest алгоритм библиотеки sklearn, для построения карт мира использовал plotly.
+
 ЗАДАНИЕ
 
 Представьте, что вы аналитик в области безопасности или обороны. Проанализируйте данные и сделайте выводы о распределении и характере террористических инцидентов, зафиксированных по всему миру. В свой анализ включите карты, визуализирующие местоположение различных инцидентов.
